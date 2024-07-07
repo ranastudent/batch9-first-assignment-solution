@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+      font-family: "Merriweather", serif;
+}
+
+/* banner-container styles start here */
+.banner-container {
+      max-width: 1320px;
+      min-height: 600px;
+      border: 2px solid red;
+      border-radius: 16px;
+      background-image: url('../images/Banner.png');
+      background-repeat: no-repeat;
+      background-position: 100%;
+      background-size: cover;
+}
