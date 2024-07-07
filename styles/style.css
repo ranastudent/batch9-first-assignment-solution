@@ -25,6 +25,7 @@ body {
       justify-content: center;
       align-items: center;
       text-align: center;
+      height: 600px;
       letter-spacing: 0%;
       border-style: none;
 }
