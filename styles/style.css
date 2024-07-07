@@ -8,8 +8,7 @@ body {
 .banner-container {
       max-width: 1320px;
       min-height: 600px;
-      margin: 0 auto;
-      margin-top: 50px;
+      margin: 50px auto 0px auto;
       border: 2px solid red;
       border-radius: 16px;
       background-image: url('../images/Banner.png');
