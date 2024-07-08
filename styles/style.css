@@ -47,7 +47,7 @@ body {
 }
 
 /* section 65% styles start here */
-.second-section-container {
+.second-section-container{
       max-width: 802.9px;
       min-height: 806px;
       margin: 0 auto;
@@ -59,7 +59,7 @@ body {
       align-items: center;
 }
 
-.second-section-content {
+.second-section-content{
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -67,32 +67,32 @@ body {
 }
 
 
-.second-section-content h1 {
+.second-section-content h1{
       color: rgb(255, 0, 0);
       font-family: Inter;
       font-size: 88px;
       font-weight: 700;
 }
 
-.second-section-content p {
+.second-section-content p{
       color: rgb(255, 0, 0);
       font-family: Inter;
       font-size: 24px;
       font-weight: 500;
 }
 
-.second-section-content h3 {
+.second-section-content h3{ 
       color: rgb(7, 2, 17);
       font-family: Inter;
       font-size: 48px;
       font-weight: 700;
 }
 
-.image-container {
+.image-container{
       width: 802.9px;
       height: 500px;
 }
-.image-container img {
+.image-container img{
       width: 100%;
       height: 100%;
 }
