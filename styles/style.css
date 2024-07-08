@@ -47,59 +47,11 @@ body {
 }
 
 /* section 65% styles start here */
-.section-second {
+.section-second-container {
       max-width: 802.9px;
       min-height: 806px;
       margin: 0 auto;
-      margin-top: 120px;
+      margin-top: 90px;
       border: 2px solid red;
 }
 
-.second-section-content {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 600px;
-      letter-spacing: 0%;
-      text-align: center;
-}
-
-.second-section-content h1 {
-      color: rgb(255, 0, 0);
-      font-family: Inter;
-      font-size: 88px;
-      font-weight: 700;
-      line-height: 107px;
-}
-
-.second-section-content p {
-      color: rgb(255, 0, 0);
-      font-family: Inter;
-      font-size: 24px;
-      font-weight: 250;
-      line-height: 29px;
-}
-
-.second-section-content img {
-      margin-top: 48px;
-}
-
-.second-section-content h3 {
-      color: rgb(7, 2, 17);
-      font-family: Inter;
-      font-size: 48px;
-      font-weight: 700;
-      line-height: 58px;
-}
-
-.image-container {
-      width: 802.9px;
-      height: 500px;
-}
-.image-container img{
-      width: 100%;
-      height: 100%;
-}
-
-/* section 65% styles end here */
